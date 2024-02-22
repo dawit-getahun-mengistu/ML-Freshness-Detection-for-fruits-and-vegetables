@@ -1,0 +1,11 @@
+Please read the readme file first.
+
+
+
+Classification datasets
+These are the datasets we compiled from the sources we mentioned in the document. we have put them online for ease of access.
+ - https://www.kaggle.com/datasets/dawitgetahunmengistu/freshness-staleness
+ - https://www.kaggle.com/datasets/dawitgetahunmengistu/fruits-and-vegies
+
+YOLO dataset
+ - https://universe.roboflow.com/college-74jj5/freshness-fruits-and-vegetables/dataset/7# 
