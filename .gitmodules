@@ -1,0 +1,3 @@
+[submodule "implementation"]
+	path = fruits_and_vegetables_object_detection
+	url = https://github.com/dawit-getahun-mengistu/fruits_and_vegetables_object_detection.git
